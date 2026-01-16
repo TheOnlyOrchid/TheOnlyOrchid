@@ -1,16 +1,18 @@
-## Hi there 👋
+## Software engineer and aspiring cybersecurity specialist based in UK!
 
-<!--
-**TheOnlyOrchid/TheOnlyOrchid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills
+- Kotlin
+- Java
+- Reverse engineering
 
-Here are some ideas to get you started:
+## Currently learning
+- C
+- NASM
+- Linux
+- Reverse engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Based in Colchester, I spend most of my free time with computers, find how they tick and especially finding how to break them. I love experimenting with limits, bypassing resctrictions and overall pushing software to it's limits. 
+
+I am **currently** employed at **Rollerite** ***LLC***, where we focus on devlivering *high-quality* robust Minecraft modifications, written in Java/Kotlin, for server-owners and players alike. I work in a team of passionate individuals, where my role is relationships with clients, and developing said mods, through this role i have learned a significant amount about the inner workings of software and how to write it.
+
+This is started to love ***breaking*** software, and writing ***secure*** software, to prevent my own software from being broken.
