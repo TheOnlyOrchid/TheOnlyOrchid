@@ -6,8 +6,7 @@
 - Reverse engineering
 
 ## Currently learning
-- C
-- NASM
+- Networking
 - Linux
 - Reverse engineering
 
