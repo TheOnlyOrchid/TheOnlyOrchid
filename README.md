@@ -4,10 +4,11 @@
 - Kotlin
 - Java
 - Reverse engineering
+- Working with Linux
 
 ## Currently learning
 - Networking
-- Linux
+- Offensive cybersecurity
 - Reverse engineering
 
 Based in Colchester, I spend most of my free time with computers, find how they tick and especially finding how to break them. I love experimenting with limits, bypassing resctrictions and overall pushing software to it's limits. 
