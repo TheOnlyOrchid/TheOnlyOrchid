@@ -6,13 +6,11 @@
 - Reverse engineering
 - Working with Linux
 
-## Currently learning
+## Currently focusing my studies on
 - Networking
 - Offensive cybersecurity
 - Reverse engineering
 
-Based in Colchester, I spend most of my free time with computers, find how they tick and especially finding how to break them. I love experimenting with limits, bypassing resctrictions and overall pushing software to it's limits. 
+Based in Colchester, I spend most of my free time with computers,focusing on understanding the inner workings and learning how to take advantage of whatever helps them tick. I love experimenting with limits, bypassing resctrictions to push software to it's limits. 
 
-I am currently employed at **Rollerite** ***LLC***, where we focus on devlivering *high-quality* Minecraft modifications, written in Java/Kotlin, for server-owners and players alike. I work in a team of passionate individuals, where my role is relationships with clients, and developing mods, through this role i have learned a significant amount about the inner workings of software and how to write it.
-
-This is where i started to love breaking software, and writing secure software to prevent my own software from being broken.
+I am currently employed at Rollerite LLC, where we focus on devlivering high-quality software services. At this company, I work as a freelance software engineer, where I deliver applications written in Java / Kotlin to clients. This role has of course taught me a great deal about writing and handling production software, however the most surprising and useful skills I have gained are in the client relations sector, where I've come across the amazing opportunity to gain valuable experience dealing with clients.
