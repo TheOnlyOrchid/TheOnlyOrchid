@@ -1,16 +1,31 @@
-## 17 year old Software engineer and aspiring cybersecurity specialist based in UK!
+I'm a UK-based computing student and junior software engineer with an interest in low-level computing, reverse engineering, networking, and software dev.
 
-## Skills
-- C++
-- Java
+Alongside my studies (currently a Level 3 Computing BTEC), I spend a lot of my free time exploring computers, from building personal projects, solving CTFs, contributing to open source software and exploring how software works beneath the surface!
+
+## Technical Skills
+
+- **Languages:** C++, x86 Assembly, Kotlin, Java, Rust - in order of competency
+- **Software engineering:** Application development, ongoing updates and meeting client requirements!
+- **Cybersecurity:** Reverse engineering, networking and offensive-security concepts practised in authorised environments
+- **Other interests:** Low-level computing and hardware–software interaction
+
+## Current Areas of Study
+
+- Computer networking
 - Reverse engineering
-- Working with Linux
-
-## Currently focusing my studies on
-- Networking
+- Assembly
 - Offensive cybersecurity
-- Reverse engineering
+- Hardware / software interaction
 
-Based in Colchester, I spend most of my free time with computers,focusing on understanding the inner workings and learning how to take advantage of whatever helps them tick. I love experimenting with limits and pushing software to its limits. 
+## Professional Experience
 
-I am currently employed at Rollerite LLC, where we focus on devlivering high-quality software services to a large array of clients. At this company, I work as a freelance software engineer, where I deliver applications written in Java / Kotlin to clients. This role has taught me a great deal about writing and handling production software, however the most surprising and useful skills I have gained are in the client relations sector, where I've come across the amazing opportunity to gain valuable experience dealing with clients.
+I currently work as a software engineer at **Rollerite LLC**, a company delivering software services to a range of clients.
+
+In this role, I develop and deliver applications using Java and Kotlin. The experience has strengthened my understanding of production capable software, maintainability, and working within client requirements.
+
+It has also given me valuable experience communicating with clients, understanding their needs, managing expectations, and translating technical concepts to make them manageable.
+
+## Selected Work
+
+- [Website](https://kestrelsystems.dev) - My personal portfolio website (Currently under development)
+- [Vault](https://github.com/theonlyorchid/vault) - My largest public project, a lean, local password manager.
