@@ -1,4 +1,4 @@
-I'm a UK-based computing student and junior software engineer with an interest in low-level computing, reverse engineering, networking, and software dev.
+I'm a UK-based computing student and junior software engineer with an interest in low-level computing, reverse engineering, networking, and software development.
 
 Alongside my studies (currently a Level 3 Computing BTEC), I spend a lot of my free time exploring computers - from building personal projects, solving CTFs, contributing to open source software and exploring how software works beneath the surface!
 
