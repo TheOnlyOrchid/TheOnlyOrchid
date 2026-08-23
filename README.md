@@ -4,7 +4,7 @@ Alongside my studies (currently a Level 3 Computing BTEC), I spend a lot of my f
 
 ## Technical Skills
 
-- **Languages:** C++, x86 Assembly, Kotlin, Java, Rust - in order of competency
+- **Languages:** C++, x86 Assembly, Rust, Java, Kotlin - in order of competency
 - **Software engineering:** Application development, ongoing updates and meeting client requirements!
 - **Cybersecurity:** Reverse engineering, networking and offensive-security concepts practised in authorised environments
 - **Other interests:** Low-level computing and hardware–software interaction
