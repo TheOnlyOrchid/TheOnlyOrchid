@@ -19,9 +19,9 @@ Alongside my studies (currently a Level 3 Computing BTEC), I spend a lot of my f
 
 ## Professional Experience
 
-I currently work as a software engineer at **Rollerite LLC**, a company delivering software services to a range of clients.
+I currently have a full-time software engineering position with Hexis, developing a java automation client. I also work as a freelance software contractor at **Rollerite LLC**, a company delivering software services to a range of clients.
 
-In this role, I develop and deliver applications using Java and Kotlin. The experience has strengthened my understanding of production capable software, maintainability, and working within client requirements.
+In these roles, I develop and deliver applications using Java and Kotlin. The experience has strengthened my understanding of production capable software, maintainability, and working within client requirements.
 
 It has also given me valuable experience communicating with clients, understanding their needs, managing expectations, and translating technical concepts to make them manageable.
 
