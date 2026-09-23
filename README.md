@@ -28,4 +28,4 @@ It has also given me valuable experience communicating with clients, understandi
 ## Selected Work
 
 - [Website](https://kestrelsystems.dev) - My personal portfolio website (Currently under development)
-- [Vault](https://github.com/theonlyorchid/vault) - My largest public project, a lean, local password manager.
+- [Vault](https://github.com/theonlyorchid/vault) - A lean, local password manager written in C++.
