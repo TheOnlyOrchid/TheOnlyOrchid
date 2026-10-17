@@ -14,8 +14,8 @@ Alongside my studies (currently a Level 3 Computing BTEC), I spend a lot of my f
 - Computer networking
 - Reverse engineering
 - Assembly
-- Offensive cybersecurity
 - Hardware / software interaction
+- Generally trying to deepen my understanding of low level computer concepts
 
 ## Professional Experience
 
